@@ -1,4 +1,4 @@
-## Skills
+## Lagi Belajar Ini:
 
 <table>
   <tr>

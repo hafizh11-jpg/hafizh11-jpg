@@ -20,5 +20,8 @@
     <td align="center" width="80">
       <img src="Go-Logo_Aqua.png" width="60" height="60" alt="Go" />
     </td>
+    <td align="center" width="80">
+      <img src="kafka-logo-tall.png" width="60" height="60" alt="Apache Kafka" />
+    </td>
   </tr>
 </table>

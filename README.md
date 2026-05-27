@@ -23,5 +23,8 @@
     <td align="center" width="80" style="background: #f5f5f5; border-radius: 8px; padding: 5px;">
       <img src="https://i.pinimg.com/1200x/12/3d/27/123d277636783ba450261641cd5d9b92.jpg" width="50" height="50" alt="Apache Kafka" />
     </td>
+    <td align="center" width="80">
+      <img src="java-logo.svg" width="60" height="60" alt="Java" />
+    </td>
   </tr>
 </table>

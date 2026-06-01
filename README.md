@@ -13,7 +13,7 @@
     </td>
     <td align="center" valign="middle">
       <img src="fedora-kinoite.png" width="100" height="100" alt="Fedora Kinoite" /><br/>
-      <sub><b>Fedora Kinoite (Atomic Desktops)</b></sub>
+      <sub><b>Fedora Kinoite(Atomic Desktops)</b></sub>
     </td>
     <td align="center" valign="middle">
       <img src="bazzite.png" width="100" height="100" alt="Bazzite" /><br/>

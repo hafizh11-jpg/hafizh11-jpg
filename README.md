@@ -41,7 +41,7 @@
   <tr>
     <td align="center" valign="middle" colspan="4">
       <img src="spring-initializr.svg" width="100" height="100" alt="Spring Boot" /><br/>
-      <sub><b>Spring Boot</b></sub>
+      <sub><b>Spring / Spring Boot</b></sub>
     </td>
   </tr>
 </table>

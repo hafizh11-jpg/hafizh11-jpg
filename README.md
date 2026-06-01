@@ -9,7 +9,7 @@
     </td>
     <td align="center" valign="middle">
       <img src="fedora.png" width="100" height="100" alt="Fedora" /><br/>
-      <sub><b>Fedora</b></sub>
+      <sub><b>Fedora Linux</b></sub>
     </td>
     <td align="center" valign="middle">
       <img src="fedora-kinoite.png" width="100" height="100" alt="Fedora Kinoite" /><br/>

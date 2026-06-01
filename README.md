@@ -26,5 +26,8 @@
     <td align="center" width="80">
       <img src="java-logo.svg" width="60" height="60" alt="Java" />
     </td>
+    <td align="center" width="80">
+      <img src="spring-initializr.svg" width="60" height="60" alt="Spring/Spring Boot" />
+    </td>
   </tr>
 </table>

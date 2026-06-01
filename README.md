@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td align="center" width="80">
-      <img src="tux.png" width="60" height="60" alt="Linux" />
+    <td align="center" width="100">
+      <img src="tux.png" width="100" height="100" alt="Linux" />
     </td>
     <td align="center" width="80">
       <img src="fedora.png" width="60" height="60" alt="Fedora" />

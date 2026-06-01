@@ -31,7 +31,7 @@
     </td>
     <td align="center" valign="middle">
       <img src="https://i.pinimg.com/1200x/12/3d/27/123d277636783ba450261641cd5d9b92.jpg" width="90" height="90" alt="Apache Kafka" /><br/>
-      <sub><b>Kafka</b></sub>
+      <sub><b>Apache Kafka</b></sub>
     </td>
     <td align="center" valign="middle">
       <img src="java-logo.svg" width="100" height="100" alt="Java" /><br/>

@@ -31,3 +31,13 @@
     </td>
   </tr>
 </table>
+
+- Linux
+- Fedora Linux
+- Fedora Kinoite (Atomic Desktops)
+- Bazzite
+- Rust
+- Go
+- Apache Kafka
+- Java
+- Spring / Spring Boot

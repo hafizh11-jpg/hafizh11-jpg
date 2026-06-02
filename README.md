@@ -39,11 +39,11 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="middle" colspan="4">
+    <td align="center" valign="middle">
       <img src="spring-initializr.svg" width="100" height="100" alt="Spring Boot" /><br/>
       <sub><b>Spring / Spring Boot</b></sub>
     </td>
-    <td align="center" valign="middle" colspan="4">
+    <td align="center" valign="middle">
       <img src="icon_dart.svg" width="100" height="100" alt="Dart" /><br/>
       <sub><b>Dart</b></sub>
     </td>

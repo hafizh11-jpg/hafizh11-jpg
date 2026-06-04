@@ -47,6 +47,10 @@
       <img src="icon_dart.svg" width="100" height="100" alt="Dart" /><br/>
       <sub><b>Dart</b></sub>
     </td>
+    <td align="center" valign="middle">
+      <img src="icon_flutter.png" width="100" height="100" alt="Flutter" /><br/>
+      <sub><b>Flutter</b></sub>
+    </td>
   </tr>
 </table>
 </div>

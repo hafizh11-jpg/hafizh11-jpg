@@ -51,8 +51,10 @@
       <img src="icon_flutter.png" width="100" height="100" alt="Flutter" /><br/>
       <sub><b>Flutter</b></sub>
     </td>
+    <td align="center" valign="middle">
+      <img src="HTTP_logo.svg.png" width="100" height="100" alt="HTTP" /><br/>
+      <sub><b>HTTP</b></sub>
+    </td>
   </tr>
 </table>
 </div>
-
-- HTTP

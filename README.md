@@ -56,5 +56,11 @@
       <sub><b>HTTP</b></sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="mark-only-icon.png" width="100" height="100" alt="HTML" /><br/>
+      <sub><b>HTML</b></sub>
+    </td>
+  </tr>
 </table>
 </div>

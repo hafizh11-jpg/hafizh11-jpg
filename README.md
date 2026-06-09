@@ -61,6 +61,10 @@
       <img src="mark-only-icon.png" width="100" height="100" alt="HTML" /><br/>
       <sub><b>HTML</b></sub>
     </td>
+    <td align="center" valign="middle">
+      <img src="css-icon.webp" width="100" height="100" alt="CSS" /><br/>
+      <sub><b>CSS</b></sub>
+    </td>
   </tr>
 </table>
 </div>

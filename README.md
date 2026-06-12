@@ -65,6 +65,10 @@
       <img src="css-icon.webp" width="100" height="100" alt="CSS" /><br/>
       <sub><b>CSS</b></sub>
     </td>
+    <td align="center" valign="middle">
+      <img src="js.png" width="100" height="100" alt="JavaScript" /><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
   </tr>
 </table>
 </div>

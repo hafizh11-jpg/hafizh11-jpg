@@ -1,3 +1,5 @@
+Saya sangat tertarik di bidang Data Engineer dan Software Developer/Engineer 📈📊🧑‍💻
+
 ## Lagi Belajar Ini:
 
 <div align="center">

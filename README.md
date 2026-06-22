@@ -71,6 +71,10 @@
       <img src="js.png" width="100" height="100" alt="JavaScript" /><br/>
       <sub><b>JavaScript</b></sub>
     </td>
+    <td align="center" valign="middle">
+      <img src="bootstrap-logo.svg" width="100" height="100" alt="Bootstrap CSS" /><br/>
+      <sub><b>Bootstrap CSS</b></sub>
+    </td>
   </tr>
 </table>
 </div>

@@ -85,6 +85,10 @@
       <img src="tailwindcss-mark.0~s.iziag2xd..svg" width="100" height="100" alt="Tailwind CSS" /><br/>
       <sub><b>Tailwind CSS</b></sub>
     </td>
+    <td align="center" valign="middle">
+      <img src="logo-dark.svg" width="100" height="100" alt="Express.js" /><br/>
+      <sub><b>Express.js</b></sub>
+    </td>
   </tr>
 </table>
 </div>

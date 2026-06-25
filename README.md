@@ -81,6 +81,10 @@
       <img src="jsIconGreen.svg" width="100" height="100" alt="Node.js" /><br/>
       <sub><b>Node.js</b></sub>
     </td>
+    <td align="center" valign="middle">
+      <img src="tailwindcss-mark.0~s.iziag2xd..svg" width="100" height="100" alt="Tailwind CSS" /><br/>
+      <sub><b>Tailwind CSS</b></sub>
+    </td>
   </tr>
 </table>
 </div>

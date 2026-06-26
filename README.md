@@ -89,6 +89,10 @@
       <img src="logo-dark.svg" width="100" height="100" alt="Express.js" /><br/>
       <sub><b>Express.js</b></sub>
     </td>
+    <td align="center" valign="middle">
+      <img src="ts-logo-128.png" width="100" height="100" alt="TypeScript" /><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
   </tr>
 </table>
 </div>

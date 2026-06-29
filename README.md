@@ -1,4 +1,4 @@
-## Saya sangat tertarik di bidang Data Engineer dan PostgreSQL DB Administrator dan Full Stack Developer 📈📊🧑‍💻
+## Saya sangat tertarik di bidang Data Engineer dan PostgreSQL Database Administrator dan Full Stack Developer 📈📊🧑‍💻
 
 ## Lagi Belajar Ini:
 

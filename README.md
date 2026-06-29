@@ -99,6 +99,10 @@
       <img src="icons8-vite-96.png" width="100" height="100" alt="Vite" /><br/>
       <sub><b>Vite</b></sub>
     </td>
+    <td align="center" valign="middle">
+      <img src="Vue.js_Logo_2.svg.png" width="100" height="100" alt="Vue.js" /><br/>
+      <sub><b>Vue.js</b></sub>
+    </td>
   </tr>
 </table>
 </div>

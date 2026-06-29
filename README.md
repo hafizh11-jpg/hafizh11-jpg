@@ -96,7 +96,7 @@
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <img src="icons8-vite-48.png" width="100" height="100" alt="Vite" /><br/>
+      <img src="icons8-vite-96.png" width="100" height="100" alt="Vite" /><br/>
       <sub><b>Vite</b></sub>
     </td>
   </tr>

@@ -94,5 +94,11 @@
       <sub><b>TypeScript</b></sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="icons8-vite-48.png" width="100" height="100" alt="Vite" /><br/>
+      <sub><b>Vite</b></sub>
+    </td>
+  </tr>
 </table>
 </div>

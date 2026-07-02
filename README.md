@@ -107,6 +107,10 @@
       <img src="logo_dark.svg" width="100" height="100" alt="React.js" /><br/>
       <sub><b>React.js</b></sub>
     </td>
+    <td align="center" valign="middle">
+      <img src="icon_angular_gradient_alt01.png" width="100" height="100" alt="Angular" /><br/>
+      <sub><b>Angular</b></sub>
+    </td>
   </tr>
 </table>
 </div>

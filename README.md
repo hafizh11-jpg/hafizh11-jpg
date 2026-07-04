@@ -139,6 +139,14 @@
       <img src="icons8-redis-96.png" width="100" height="100" alt="Redis" /><br/>
       <sub><b>Redis</b></sub>
     </td>
+    <td align="center" valign="middle">
+      <img src="https___mariadb.com_wp-content_uploads_2019_11_mariadb-logo-vert_white-transparent.png" width="100" height="100" alt="MariaDB" /><br/>
+      <sub><b>MariaDB</b></sub>
+    </td>
+    <td align="center" valign="middle">
+      <img src="logo-mysql-170x115.png" width="100" height="100" alt="MySQL" /><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
   </tr>
 </table>
 </div>

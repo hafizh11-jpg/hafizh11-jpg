@@ -130,5 +130,11 @@
       <sub><b>PHP</b></sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="Git-Icon-1788C.png" width="100" height="100" alt="Git" /><br/>
+      <sub><b>Git</b></sub>
+    </td>
+  </tr>
 </table>
 </div>

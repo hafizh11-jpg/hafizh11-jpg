@@ -121,6 +121,10 @@
       <img src="django-logo-negative.png" width="100" height="100" alt="Django" /><br/>
       <sub><b>Django</b></sub>
     </td>
+    <td align="center" valign="middle">
+      <img src="https://i.pinimg.com/1200x/85/70/b3/8570b3851c4d9610bff44de0209192e7.jpg" width="100" height="100" alt="Flask" /><br/>
+      <sub><b>Flask</b></sub>
+    </td>
   </tr>
 </table>
 </div>

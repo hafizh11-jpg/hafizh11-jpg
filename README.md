@@ -148,5 +148,11 @@
       <sub><b>MySQL</b></sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="44521256.png" width="100" height="100" alt="CodeIgniter" /><br/>
+      <sub><b>CodeIgniter</b></sub>
+    </td>
+  </tr>
 </table>
 </div>

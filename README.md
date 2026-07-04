@@ -153,6 +153,10 @@
       <img src="44521256.png" width="100" height="100" alt="CodeIgniter" /><br/>
       <sub><b>CodeIgniter</b></sub>
     </td>
+    <td align="center" valign="middle">
+      <img src="Laravel-Logo.wine.png" width="100" height="100" alt="Laravel" /><br/>
+      <sub><b>Laravel</b></sub>
+    </td>
   </tr>
 </table>
 </div>

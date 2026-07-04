@@ -135,6 +135,10 @@
       <img src="Git-Icon-1788C.png" width="100" height="100" alt="Git" /><br/>
       <sub><b>Git</b></sub>
     </td>
+    <td align="center" valign="middle">
+      <img src="icons8-redis-96.png" width="100" height="100" alt="Redis" /><br/>
+      <sub><b>Redis</b></sub>
+    </td>
   </tr>
 </table>
 </div>

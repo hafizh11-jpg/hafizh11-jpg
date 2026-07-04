@@ -125,6 +125,10 @@
       <img src="https://i.pinimg.com/1200x/85/70/b3/8570b3851c4d9610bff44de0209192e7.jpg" width="100" height="100" alt="Flask" /><br/>
       <sub><b>Flask</b></sub>
     </td>
+    <td align="center" valign="middle">
+      <img src="new-php-logo.png" width="100" height="100" alt="PHP" /><br/>
+      <sub><b>PHP</b></sub>
+    </td>
   </tr>
 </table>
 </div>

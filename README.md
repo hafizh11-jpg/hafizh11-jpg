@@ -112,5 +112,11 @@
       <sub><b>Angular</b></sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="python-logo-only.png" width="100" height="100" alt="Python" /><br/>
+      <sub><b>Python</b></sub>
+    </td>
+  </tr>
 </table>
 </div>

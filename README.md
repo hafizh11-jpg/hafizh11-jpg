@@ -117,6 +117,10 @@
       <img src="python-logo-only.png" width="100" height="100" alt="Python" /><br/>
       <sub><b>Python</b></sub>
     </td>
+    <td align="center" valign="middle">
+      <img src="django-logo-negative.png" width="100" height="100" alt="Django" /><br/>
+      <sub><b>Django</b></sub>
+    </td>
   </tr>
 </table>
 </div>

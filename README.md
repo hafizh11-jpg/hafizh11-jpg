@@ -140,7 +140,7 @@
       <sub><b>Redis</b></sub>
     </td>
     <td align="center" valign="middle">
-      <img src="https___mariadb.com_wp-content_uploads_2019_11_mariadb-logo-vert_blue-transparent" width="100" height="100" alt="MariaDB" /><br/>
+      <img src="https___mariadb.com_wp-content_uploads_2019_11_mariadb-logo-vert_blue-transparent.png" width="100" height="100" alt="MariaDB" /><br/>
       <sub><b>MariaDB</b></sub>
     </td>
     <td align="center" valign="middle">

@@ -1,12 +1,4 @@
-<!--
-  🔧 PENTING SEBELUM DIPAKAI:
-  1) Ganti SEMUA tulisan "USERNAME" di file ini dengan username GitHub kamu yang asli.
-  2) File ini harus disimpan sebagai README.md di repo KHUSUS bernama sama persis dengan
-     username GitHub kamu (contoh: kalau usernamemu "budi123", buat repo "budi123/budi123").
-     Repo seperti ini otomatis tampil di halaman profil GitHub-mu.
-  3) Bagian "Snake Animation" butuh 1 file tambahan (snake.yml) yang saya buatkan terpisah —
-     lihat instruksi di chat.
--->
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61AB,50:B980F4,100:6D67FE&height=220&section=header&text=Halo,%20Selamat%20Datang!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%E2%80%A2%20Database%20Administrator%20%E2%80%A2%20Backend%20Developer&descAlign=50&descAlignY=58&descSize=18" width="100%"/>
@@ -78,13 +70,7 @@ Suka mengutak-atik sistem dari balik layar — mulai dari merancang pipeline dat
   </picture>
 </p>
 
-<!--
-  ⚠️ Gambar ular ini BELUM otomatis muncul hanya dengan menambahkan baris di atas.
-  Kamu perlu memasang file GitHub Actions bernama "snake.yml" (saya buatkan terpisah)
-  ke path: .github/workflows/snake.yml di repo profil ini, lalu jalankan Action-nya
-  sekali secara manual (tab "Actions" -> pilih workflow -> "Run workflow").
-  Setelah itu ia akan auto-update tiap hari sesuai kontribusi GitHub-mu.
--->
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D67FE,50:B980F4,100:FF61AB&height=150&section=footer" width="100%"/>

@@ -46,8 +46,8 @@ Suka mengutak-atik sistem dari balik layar — mulai dari merancang pipeline dat
 ##  Statistik GitHub
 
 <p align="center">
-  <img width="49%" src="https://vercel.app" alt="GitHub Stats"/>
-  <img width="49%" src="https://vercel.app" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafizh11-jpg&theme=radical" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafizh11-jpg&theme=radical" alt="Top Languages"/>
 </p>
 
 <p align="center">

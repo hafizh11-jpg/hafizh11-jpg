@@ -17,7 +17,7 @@
 
 ##  Tentang Saya
 
-Saya sangat tertarik di bidang **Data Engineer**, **Database Administrator**, dan **Backend Developer** 📈📊🧑‍💻
+Saya sangat tertarik di bidang **Data Engineer**, **Database Administrator**, dan **Backend Developer** 
 
 Suka mengutak-atik sistem dari balik layar — mulai dari merancang pipeline data, mengelola database, sampai membangun API yang rapi dan efisien. Repo ini adalah etalase kecil dari apa yang lagi saya pelajari dan kerjakan.
 

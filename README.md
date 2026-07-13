@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 Tentang Saya
+##  Tentang Saya
 
 Saya sangat tertarik di bidang **Data Engineer**, **Database Administrator**, dan **Backend Developer** 📈📊🧑‍💻
 
@@ -33,7 +33,7 @@ Suka mengutak-atik sistem dari balik layar — mulai dari merancang pipeline dat
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D67FE,50:B980F4,100:FF61AB&height=40&section=header" width="100%"/>
 </p>
 
-## 🧠 Lagi Belajar Ini
+##  Lagi Belajar Ini
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,rust,go,kafka,java,spring,dart,flutter,html,css,js,ts,bootstrap,nodejs,tailwind,express,vite,vue,react,angular,py,django,flask,php,git,redis,mysql,laravel&theme=dark&perline=10" alt="Tech Stack"/>
@@ -51,7 +51,7 @@ Suka mengutak-atik sistem dari balik layar — mulai dari merancang pipeline dat
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61AB,50:B980F4,100:6D67FE&height=40&section=header" width="100%"/>
 </p>
 
-## 📊 Statistik GitHub
+##  Statistik GitHub
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hafizh11-jpg&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
@@ -62,13 +62,13 @@ Suka mengutak-atik sistem dari balik layar — mulai dari merancang pipeline dat
   <img src="https://streak-stats.demolab.com?user=hafizh11-jpg&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-## 🏆 Trophy
+##  Trophy
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hafizh11-jpg&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
-## 🐍 Animasi Kontribusi
+##  Animasi Kontribusi
 
 <p align="center">
   <picture>

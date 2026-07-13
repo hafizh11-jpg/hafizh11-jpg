@@ -46,8 +46,10 @@ Suka mengutak-atik sistem dari balik layar — mulai dari merancang pipeline dat
 ##  Statistik GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafizh11-jpg&theme=radical" alt="Profile Details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafizh11-jpg&theme=radical" alt="Top Languages"/>
+  <a href="https://github.com/rajafadhil">
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rajafadhil&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rajafadhil&layout=compact&theme=algolia"/>
+  </a>
 </p>
 
 <p align="center">

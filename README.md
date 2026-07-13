@@ -46,7 +46,7 @@ Suka mengutak-atik sistem dari balik layar — mulai dari merancang pipeline dat
 ##  Statistik GitHub
 
 <p align="center">
-  [![GitHub Stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hafizh11-jpg&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizh11-jpg&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 

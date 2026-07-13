@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=6D67FE&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=for-the-badge&color=B980F4" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=hafizh11-jpg&label=Profile%20Views&color=6D67FE&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/hafizh11-jpg?label=Followers&style=for-the-badge&color=B980F4" alt="Followers"/>
 </p>
 
 ---

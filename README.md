@@ -58,7 +58,9 @@ Suka mengutak-atik sistem dari balik layar — mulai dari merancang pipeline dat
 
 ##  Trophy
 
-![](https://github-trophies.vercel.app/?username=hafizh11-jpg)
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=hafizh11-jpg&theme=radical&hide_border=true" alt="GitHub Trophy"/>
+</p>
 
 ##  Kontribusi
 

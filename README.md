@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=B980F4&center=true&vCenter=true&width=650&lines=Data+Engineer+%F0%9F%93%8A;Database+Administrator+%F0%9F%97%84%EF%B8%8F;Backend+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Selalu+Belajar+Hal+Baru+Setiap+Hari+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=B980F4&center=true&vCenter=true&width=650&lines=Data+Engineer+;Database+Administrator+;Backend+Developer+;Selalu+Belajar+Hal+Baru+Setiap+Hari+" alt="Typing SVG"/>
 </p>
 
 <p align="center">

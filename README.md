@@ -1,5 +1,5 @@
-
-
+a
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61AB,50:B980F4,100:6D67FE&height=220&section=header&text=Halo,%20Selamat%20Datang!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%E2%80%A2%20Database%20Administrator%20%E2%80%A2%20Backend%20Developer&descAlign=50&descAlignY=58&descSize=18" width="100%"/>
 </p>
@@ -77,3 +77,4 @@ Suka mengutak-atik sistem dari balik layar — mulai dari merancang pipeline dat
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D67FE,50:B980F4,100:FF61AB&height=150&section=footer" width="100%"/>
 </p>
+-->

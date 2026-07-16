@@ -1,4 +1,3 @@
-# 💻 Profile Fastfetch Layout
 
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
@@ -32,7 +31,6 @@
 
 ---
 
-### 📊 GitHub Analytics & Statistics
 
 <p align="center">
   <a href="https://github.com/hafizh11-jpg">

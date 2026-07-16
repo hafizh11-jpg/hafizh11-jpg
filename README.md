@@ -21,7 +21,7 @@
 <span style="color:#ff79c6">🎮 GPU</span>      → Coffee-Driven Imagination Engine
 <span style="color:#8be9fd">💾 Memory</span>   → 16GB Curiosity / 32GB Ram
 
-<span style="color:#2b2b2b">███</span><span style="color:#ff5555">███</span><span style="color:#50fa7b">███</span><span style="color:#f1fa8c">███</span><span style="color:#bd93f9">███</span><span style="color:#ff79c6">███</span><span style="color:#8be9fd">███</span><span style="color:#f8f8f2">███</span>
+<span style="color:#0000FF">███</span><span style="color:#0000FF">███</span><span style="color:#0000FF">███</span><span style="color:#0000FF">███</span><span style="color:#0000FF">███</span><span style="color:#0000FF">███</span><span style="color:#0000FF">███</span><span style="color:#0000FF">███</span>
         </pre>
       </td>
     </tr>

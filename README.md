@@ -1,10 +1,10 @@
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <td valign="top" width="380" align="center">
-        <img src="selena-ascii.png" width="380" alt="ASCII Art Profile">
+      <td valign="top" width="290" align="center">
+        <img src="selena-ascii.png" width="290" alt="ASCII Art Profile">
       </td>
-      <td valign="top" align="left" style="padding-left: 30px;">
+      <td valign="top" align="left" style="padding-left: 35px;">
         <pre>
 <span style="color:#50fa7b">👤 →</span> <span style="color:#ff79c6"><b>hafizh11-jpg</b></span><span style="color:#8be9fd"><b></b></span>
 

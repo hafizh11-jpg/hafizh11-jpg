@@ -1,3 +1,46 @@
+# 💻 Profile Fastfetch Layout
+
+<div align="center">
+  <img src="profile-ascii.png" width="260" align="left" style="margin-right: 25px; margin-bottom: 15px; border-radius: 4px;">
+
+  <pre align="left">
+<span style="color:#50fa7b">👤 →</span> <span style="color:#ff79c6"><b>hafizh11-jpg</b></span>@<span style="color:#8be9fd"><b>github</b></span>
+------------------------------------------------------------
+<span style="color:#8be9fd">💻 OS</span>       → Bazzite
+<span style="color:#50fa7b">🏠 Host</span>     → Data Engineer
+<span style="color:#f1fa8c">🧠 Kernel</span>   → Transforming Raw Data into Reliable & Scalable Insights 🚀
+<span style="color:#bd93f9">⏰ Uptime</span>   → 22 years (and counting)
+<span style="color:#ff79c6">📦 Packages</span> → 18+ Repositories (git)
+<span style="color:#8be9fd">🐚 Shell</span>    → Bash
+<span style="color:#ff5555">🖥️ Res</span>      → 1920x1080 @ 144Hz
+<span style="color:#50fa7b">🎨 DE/WM</span>    → Zed Editor / JetBrains / Tmux
+<span style="color:#f1fa8c">📟 Terminal</span> → Konsole / GNOME Terminal
+<span style="color:#bd93f9">⚙️ CPU</span>      → 12th Gen Intel(R) Core(TM)
+<span style="color:#ff79c6">🎮 GPU</span>      → NVIDIA GeForce RTX
+<span style="color:#8be9fd">💾 Memory</span>   → 16GB Ram
+
+<span style="color:#2b2b2b">███</span><span style="color:#ff5555">███</span><span style="color:#50fa7b">███</span><span style="color:#f1fa8c">███</span><span style="color:#bd93f9">███</span><span style="color:#ff79c6">███</span><span style="color:#8be9fd">███</span><span style="color:#f8f8f2">███</span>
+  </pre>
+</div>
+
+<br clear="left"/>
+
+---
+
+### 📊 GitHub Analytics & Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hafizh11-jpg&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" style="margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizh11-jpg&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizh11-jpg&theme=tokyonight" alt="GitHub Streak" width="100%"/>
+</div>
+
+<!--
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
@@ -42,3 +85,4 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizh11-jpg&theme=tokyonight" alt="GitHub Streak" width="100%"/>
 </div>
+-->

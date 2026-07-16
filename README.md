@@ -35,14 +35,14 @@
 ### 📊 GitHub Analytics & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" style="margin-right: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hafizh11-jpg&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" style="margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizh11-jpg&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizh11-jpg&theme=tokyonight" alt="GitHub Streak" width="100%"/>
 </div>
 
 <!--

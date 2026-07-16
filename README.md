@@ -3,12 +3,10 @@
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <!-- Kolom Kiri: Foto Profil ASCII Art -->
       <td valign="top" width="380" align="center">
-        <img src="selena-ascii.png" width="380" alt="ASCII Art Profile" style="border-radius: 8px;">
+        <img src="selena-ascii.png" width="380" alt="ASCII Art Profile">
       </td>
-      <!-- Kolom Kanan: Informasi Gaya Fastfetch (Rata Kiri Sempurna) -->
-      <td valign="top" align="left" style="padding-left: 25px;">
+      <td valign="top" align="left" style="padding-left: 30px;">
         <pre>
 <span style="color:#50fa7b">👤 →</span> <span style="color:#ff79c6"><b>username</b></span>@<span style="color:#8be9fd"><b>github</b></span>
 ------------------------------------------------------------
@@ -24,12 +22,6 @@
 <span style="color:#bd93f9">⚙️ CPU</span>      → Brain Core™ i9-13900K @ 5.40GHz
 <span style="color:#ff79c6">🎮 GPU</span>      → Coffee-Driven Imagination Engine
 <span style="color:#8be9fd">💾 Memory</span>   → 16GB Curiosity / 32GB Ram
-
-<span style="color:#ff5555">🛠️ Tech Stack:</span>
-├── 🌐 <b>Frontend</b> → HTML5, CSS3, JavaScript, TypeScript, React, Next.js
-├── ⚙️ <b>Backend</b>  → Python, Node.js, Express, PHP, Laravel
-├── 🗄️ <b>Database</b> → MySQL, PostgreSQL, MongoDB, Redis
-└── 🔧 <b>DevOps</b>   → Git, Docker, AWS, Linux, Figma
 
 <span style="color:#2b2b2b">███</span><span style="color:#ff5555">███</span><span style="color:#50fa7b">███</span><span style="color:#f1fa8c">███</span><span style="color:#bd93f9">███</span><span style="color:#ff79c6">███</span><span style="color:#8be9fd">███</span><span style="color:#f8f8f2">███</span>
         </pre>

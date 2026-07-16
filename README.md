@@ -19,7 +19,7 @@
 <span style="color:#f1fa8c"> Terminal</span> → Alacritty / Windows Terminal
 <span style="color:#bd93f9"> CPU</span>      → Brain Core™ i9-13900K @ 5.40GHz
 <span style="color:#ff79c6"> GPU</span>      → Coffee-Driven Imagination Engine
-<span style="color:#8be9fd"> Memory</span>   → 16GB Curiosity / 32GB Ram
+<span style="color:#8be9fd"> Memory</span>   → 16GB Ram
 
 <span style="color:#0000FF">███</span><span style="color:#0000FF">███</span><span style="color:#0000FF">███</span><span style="color:#0000FF">███</span><span style="color:#0000FF">███</span><span style="color:#0000FF">███</span><span style="color:#0000FF">███</span><span style="color:#0000FF">███</span>
         </pre>

@@ -12,7 +12,7 @@
 <span style="color:#50fa7b"> Host</span>     → Data Engineer
 <span style="color:#f1fa8c"> Kernel</span>   → Passion, Curiosity & Caffeine ☕
 <span style="color:#bd93f9"> Uptime</span>   → 22 years
-<span style="color:#ff79c6"> Packages</span> → 48 Repositories (git), 1.2k Commits
+<span style="color:#ff79c6"> Packages</span> → 18+ Repositories
 <span style="color:#8be9fd"> Shell</span>    → zsh 5.9 (oh-my-zsh)
 <span style="color:#ff5555"> Res</span>      → 1920x1080 @ 144Hz (Dual Monitor Setup)
 <span style="color:#50fa7b"> DE/WM</span>    → Zed Editor / JetBrains IDE

@@ -1,35 +1,35 @@
 # 💻 Profile Fastfetch Layout
 
 <div align="center">
-  <table border="0">
+  <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <!-- Kolom Kiri: Foto Profil ASCII Art -->
-      <td valign="top" width="380">
-        <img src="selena-ascii.png" width="380" alt="ASCII Art Profile" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+      <td valign="top" width="380" align="center">
+        <img src="selena-ascii.png" width="380" alt="ASCII Art Profile" style="border-radius: 8px;">
       </td>
-      <!-- Kolom Kanan: Informasi Gaya Fastfetch -->
-      <td valign="top">
+      <!-- Kolom Kanan: Informasi Gaya Fastfetch (Rata Kiri Sempurna) -->
+      <td valign="top" align="left" style="padding-left: 25px;">
         <pre>
-<b>username</b>@<b>github</b>
------------------------
-<b>OS</b>: Human OS x86_64 / Linux & Windows Dual Boot
-<b>Host</b>: Fullstack Developer & Open Source Enthusiast
-<b>Kernel</b>: Passion, Curiosity & Caffeine ☕
-<b>Uptime</b>: 22 years (and counting)
-<b>Packages</b>: 48 Repositories (git), 1.2k Commits
-<b>Shell</b>: zsh 5.9 (oh-my-zsh)
-<b>Resolution</b>: 1920x1080 @ 144Hz (Dual Monitor Setup)
-<b>DE/WM</b>: VS Code / Neovim / Tmux
-<b>Terminal</b>: Alacritty / Windows Terminal
-<b>CPU</b>: Brain Core™ i9-13900K @ 5.40GHz
-<b>GPU</b>: Coffee-Driven Imagination Engine
-<b>Memory</b>: 16GB Curiosity / 32GB Ram
+<span style="color:#50fa7b">👤 →</span> <span style="color:#ff79c6"><b>username</b></span>@<span style="color:#8be9fd"><b>github</b></span>
+------------------------------------------------------------
+<span style="color:#8be9fd">💻 OS</span>       → Human OS x86_64 / Linux & Windows Dual Boot
+<span style="color:#50fa7b">🏠 Host</span>     → Fullstack Developer & Open Source Enthusiast
+<span style="color:#f1fa8c">🧠 Kernel</span>   → Passion, Curiosity & Caffeine ☕
+<span style="color:#bd93f9">⏰ Uptime</span>   → 22 years (and counting)
+<span style="color:#ff79c6">📦 Packages</span> → 48 Repositories (git), 1.2k Commits
+<span style="color:#8be9fd">🐚 Shell</span>    → zsh 5.9 (oh-my-zsh)
+<span style="color:#ff5555">🖥️ Res</span>      → 1920x1080 @ 144Hz (Dual Monitor Setup)
+<span style="color:#50fa7b">🎨 DE/WM</span>    → VS Code / Neovim / Tmux
+<span style="color:#f1fa8c">📟 Terminal</span> → Alacritty / Windows Terminal
+<span style="color:#bd93f9">⚙️ CPU</span>      → Brain Core™ i9-13900K @ 5.40GHz
+<span style="color:#ff79c6">🎮 GPU</span>      → Coffee-Driven Imagination Engine
+<span style="color:#8be9fd">💾 Memory</span>   → 16GB Curiosity / 32GB Ram
 
-<b>Tech Stack</b>:
-├─ 🌐 <b>Frontend</b>: HTML5, CSS3, JavaScript, TypeScript, React, Next.js
-├─ ⚙️ <b>Backend</b>: Python, Node.js, Express, PHP, Laravel
-├─ 🗄️ <b>Database</b>: MySQL, PostgreSQL, MongoDB, Redis
-└─ 🛠️ <b>DevOps/Tools</b>: Git, Docker, AWS, Linux, Figma
+<span style="color:#ff5555">🛠️ Tech Stack:</span>
+├── 🌐 <b>Frontend</b> → HTML5, CSS3, JavaScript, TypeScript, React, Next.js
+├── ⚙️ <b>Backend</b>  → Python, Node.js, Express, PHP, Laravel
+├── 🗄️ <b>Database</b> → MySQL, PostgreSQL, MongoDB, Redis
+└── 🔧 <b>DevOps</b>   → Git, Docker, AWS, Linux, Figma
 
 <span style="color:#2b2b2b">███</span><span style="color:#ff5555">███</span><span style="color:#50fa7b">███</span><span style="color:#f1fa8c">███</span><span style="color:#bd93f9">███</span><span style="color:#ff79c6">███</span><span style="color:#8be9fd">███</span><span style="color:#f8f8f2">███</span>
         </pre>
@@ -52,24 +52,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" width="100%"/>
 </div>
-
----
-
-### 🛠️ Pengaturan & Cara Penggunaan
-
-Untuk menggunakan README ini di profil GitHub Anda, ikuti langkah-langkah berikut:
-
-1. **Unduh Gambar ASCII Art**: Klik kanan pada gambar ASCII Art yang telah dibuat di atas, pilih **Save Image As...** (Simpan Gambar Sebagai...), lalu beri nama **`profile-ascii.png`**.
-2. **Buat Repositori Profil**: Jika belum ada, buat repositori baru di GitHub dengan nama yang **sama persis** dengan *username* GitHub Anda (misal: `github.com/username/username`). Centang bagian **Add a README file**.
-3. **Unggah Gambar**: Unggah file `profile-ascii.png` ke dalam repositori tersebut (bisa dimasukkan ke dalam folder atau langsung di *root* repositori).
-4. **Perbarui README.md**: Salin kode di atas ke dalam file `README.md` Anda. Jangan lupa untuk mengganti tulisan `YOUR_GITHUB_USERNAME` dan data personal lainnya sesuai dengan preferensi Anda sendiri.
-
----
-
-<div align="center">
-  <sub>Layout dibuat dengan 💖 terinspirasi oleh proyek Fastfetch.</sub>
-</div>
-
 
 <!--
 <p align="center">

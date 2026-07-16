@@ -1,8 +1,8 @@
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <td valign="top" width="480" align="center">
-        <img src="selena-ascii.png" width="480" alt="ASCII Art Profile">
+      <td valign="top" width="380" align="center">
+        <img src="selena-ascii.png" width="380" alt="ASCII Art Profile">
       </td>
       <td valign="top" align="left" style="padding-left: 30px;">
         <pre>

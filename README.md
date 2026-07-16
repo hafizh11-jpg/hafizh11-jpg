@@ -17,8 +17,8 @@
 <span style="color:#ff5555"> Res</span>      → 1920x1080 @ 144Hz
 <span style="color:#50fa7b"> DE/WM</span>    → Zed Editor / JetBrains IDE
 <span style="color:#f1fa8c"> Terminal</span> → Konsole / GNOME Terminal
-<span style="color:#bd93f9"> CPU</span>      → Brain Core™ i9-13900K @ 5.40GHz
-<span style="color:#ff79c6"> GPU</span>      → Coffee-Driven Imagination Engine
+<span style="color:#bd93f9"> CPU</span>      → 12th Gen Intel(R) Core(TM) i7-12650H (16) @ 4.70 GHz
+<span style="color:#ff79c6"> GPU</span>      → NVIDIA GeForce RTX 2050 [Discrete]
 <span style="color:#8be9fd"> Memory</span>   → 16GB Ram
 
 <span style="color:#0000FF">███</span><span style="color:#0000FF">███</span><span style="color:#0000FF">███</span><span style="color:#0000FF">███</span><span style="color:#0000FF">███</span><span style="color:#0000FF">███</span><span style="color:#0000FF">███</span><span style="color:#0000FF">███</span>

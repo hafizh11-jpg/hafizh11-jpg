@@ -6,7 +6,7 @@
       </td>
       <td valign="top" align="left" style="padding-left: 30px;">
         <pre>
-<span style="color:#50fa7b">👤 →</span> <span style="color:#ff79c6"><b>hafizh11-jpg</b></span>@<span style="color:#8be9fd"><b>github</b></span>
+<span style="color:#50fa7b">👤 →</span> <span style="color:#ff79c6"><b>hafizh11-jpg</b></span><span style="color:#8be9fd"><b></b></span>
 
 <span style="color:#8be9fd"> OS</span>       → Human OS x86_64 / Linux & Windows Dual Boot
 <span style="color:#50fa7b"> Host</span>     → Fullstack Developer & Open Source Enthusiast

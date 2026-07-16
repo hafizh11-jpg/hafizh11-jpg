@@ -10,7 +10,7 @@
 
 <span style="color:#8be9fd"> OS</span>       → Bazzite
 <span style="color:#50fa7b"> Host</span>     → Data Engineer
-<span style="color:#f1fa8c"> Kernel</span>   → Passion, Curiosity & Caffeine ☕
+<span style="color:#f1fa8c"> Kernel</span>   → Architecting the Flow of Data from Chaos to Order
 <span style="color:#bd93f9"> Uptime</span>   → 22 years
 <span style="color:#ff79c6"> Packages</span> → 18+ Repositories
 <span style="color:#8be9fd"> Shell</span>    → Bash

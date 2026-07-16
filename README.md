@@ -1,7 +1,7 @@
 # 💻 Profile Fastfetch Layout
 
 <div align="center">
-  <img src="profile-ascii.png" width="260" align="left" style="margin-right: 25px; margin-bottom: 15px; border-radius: 4px;">
+  <img src="selena-ascii.png" width="260" align="left" style="margin-right: 25px; margin-bottom: 15px; border-radius: 4px;">
 
   <pre align="left">
 <span style="color:#50fa7b">👤 →</span> <span style="color:#ff79c6"><b>hafizh11-jpg</b></span>@<span style="color:#8be9fd"><b>github</b></span>

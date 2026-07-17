@@ -19,5 +19,7 @@ Memory         → 15.30 GiB Ram
 🟥🟧🟨🟩🟦🟪🟫⬛⬜
 </pre>
 
-![selena-ascii-1](ascii_bw_hd.gif)![selena-ascii-2](ascii_bw_subtle.gif)
-![selena-ascii-3](ascii_subtle_hd.gif)![selena](pgr-selena-punishing-gray-raven-selena.gif)
+![selena-ascii-1](ascii_bw_hd.gif)
+![selena-ascii-2](ascii_bw_subtle.gif)
+![selena-ascii-3](ascii_subtle_hd.gif)
+![selena](pgr-selena-punishing-gray-raven-selena.gif)

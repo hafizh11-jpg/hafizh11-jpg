@@ -1,20 +1,28 @@
-<img src="selena-ascii.png" width="260" height="260" align="left" style="margin-right: 25px; margin-bottom: 15px; border-radius: 4px;">
+<table>
+  <tr>
+    <td valign="top">
+      <img src="selena-ascii.png" width="260" height="260" style="border-radius: 4px;">
+    </td>
+    <td valign="top">
 <pre>
 👤 → hafizh11-jpg
-OS             → Bazzite OS
-Host           → Data Engineer, Database Administrator, Backend Developer
-Kernel         → Transforming Raw Data into Reliable & Scalable Insights 
-Uptime         → 22+ years
-Packages       → 19+ Repositories
-Shell          → Bash
-Res            → 1920x1080 @ 144Hz
-DE/WM          → Zed Editor / JetBrains IDE
-Terminal       → Konsole / GNOME Terminal
-CPU            → 12th Gen Intel(R) Core(TM) i7-12650H (16) @ 4.70 GHz
-GPU            → NVIDIA GeForce RTX 2050 [Discrete]
-Memory         → 15.30 GiB Ram
+OS           → Bazzite OS
+Host         → Data Engineer, Database Administrator, Backend Developer
+Kernel       → Transforming Raw Data into Reliable & Scalable Insights 
+Uptime       → 22+ years
+Packages     → 19+ Repositories
+Shell        → Bash
+Res          → 1920x1080 @ 144Hz
+DE/WM        → Zed Editor / JetBrains IDE
+Terminal     → Konsole / GNOME Terminal
+CPU          → 12th Gen Intel(R) Core(TM) i7-12650H (16) @ 4.70 GHz
+GPU          → NVIDIA GeForce RTX 2050 [Discrete]
+Memory       → 15.30 GiB Ram
 🟥🟧🟨🟩🟦🟪🟫⬛⬜
 </pre>
+    </td>
+  </tr>
+</table>
 
 # ASCII ART ❤️
 <table>

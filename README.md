@@ -16,7 +16,7 @@ CPU            → 12th Gen Intel(R) Core(TM) i7-12650H (16) @ 4.70 GHz
 GPU            → NVIDIA GeForce RTX 2050 [Discrete]
 Memory         → 15.30 GiB Ram
 
-████████████████████████████
+🟥🟧🟨🟩🟦🟪🟫⬛⬜
 </pre>
 
 <br clear="left"/>

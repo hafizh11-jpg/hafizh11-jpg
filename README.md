@@ -23,10 +23,12 @@ Memory         → 16GB Ram
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafizh11-jpg&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" style="margin-right: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizh11-jpg&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
-</div>
+<p align="center">
+  <a href="https://github.com/hafizh11-jpg">
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hafizh11-jpg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafizh11-jpg&layout=compact&theme=algolia"/>
+  </a>
+</p>
 
 <br>
 

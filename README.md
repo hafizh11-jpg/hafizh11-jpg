@@ -19,17 +19,8 @@ Memory         → 15.30 GiB Ram
 🟥🟧🟨🟩🟦🟪🟫⬛⬜
 </pre>
 
-<br clear="left"/>
+![[ascii_bw_hd.gif]]
 
-<p align="center">
-  <a href="https://github.com/hafizh11-jpg">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hafizh11-jpg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafizh11-jpg&layout=compact&theme=algolia"/>
-  </a>
-</p>
+![[ascii_bw_subtle.gif]]
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizh11-jpg&theme=tokyonight" alt="GitHub Streak" width="100%"/>
-</div>
+![[ascii_subtle_hd.gif]]![[pgr-selena-punishing-gray-raven-selena.gif]]

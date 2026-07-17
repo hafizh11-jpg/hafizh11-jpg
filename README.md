@@ -19,7 +19,13 @@ Memory         → 15.30 GiB Ram
 🟥🟧🟨🟩🟦🟪🟫⬛⬜
 </pre>
 
-![selena-ascii-1](ascii_bw_hd.gif)
-![selena-ascii-2](ascii_bw_subtle.gif)
-![selena-ascii-3](ascii_subtle_hd.gif)
-![selena](pgr-selena-punishing-gray-raven-selena.gif)
+<table>
+  <tr>
+    <td><img src="ascii_bw_hd.gif" alt="selena-ascii-1" width="300"></td>
+    <td><img src="ascii_bw_subtle.gif" alt="selena-ascii-2" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="ascii_subtle_hd.gif" alt="selena-ascii-3" width="300"></td>
+    <td><img src="pgr-selena-punishing-gray-raven-selena.gif" alt="selena" width="300"></td>
+  </tr>
+</table>

@@ -1,5 +1,4 @@
 <img src="selena-ascii.png" width="260" height="260" align="left" style="margin-right: 25px; margin-bottom: 15px; border-radius: 4px;">
-
 <pre>
 👤 → hafizh11-jpg
 
@@ -18,7 +17,7 @@ Memory         → 15.30 GiB Ram
 
 🟥🟧🟨🟩🟦🟪🟫⬛⬜
 </pre>
-
+# ASCII ART ❤️
 <table>
   <tr>
     <td><img src="ascii_bw_hd.gif" alt="selena-ascii-1" width="300"></td>

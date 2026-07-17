@@ -3,14 +3,14 @@
 <pre>
 👤 → hafizh11-jpg@github
 
-OS             → Bazzite
-Host           → Data Engineer
+OS             → Bazzite OS
+Host           → Data Engineer, Database Administrator, Backend Developer
 Kernel         → Transforming Raw Data into Reliable & Scalable Insights 
-Uptime         → 22 years (and counting)
-Packages       → 18+ Repositories (git)
+Uptime         → 22+ years
+Packages       → 18+ Repositories
 Shell          → Bash
 Res            → 1920x1080 @ 144Hz
-DE/WM          → Zed Editor / JetBrains / Tmux
+DE/WM          → Zed Editor / JetBrains IDE
 Terminal       → Konsole / GNOME Terminal
 CPU            → 12th Gen Intel(R) Core(TM)
 GPU            → NVIDIA GeForce RTX

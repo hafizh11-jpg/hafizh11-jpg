@@ -7,7 +7,7 @@ OS             → Bazzite OS
 Host           → Data Engineer, Database Administrator, Backend Developer
 Kernel         → Transforming Raw Data into Reliable & Scalable Insights 
 Uptime         → 22+ years
-Packages       → 18+ Repositories
+Packages       → 19+ Repositories
 Shell          → Bash
 Res            → 1920x1080 @ 144Hz
 DE/WM          → Zed Editor / JetBrains IDE

@@ -15,6 +15,7 @@ GPU            → NVIDIA GeForce RTX 2050 [Discrete]
 Memory         → 15.30 GiB Ram
 🟥🟧🟨🟩🟦🟪🟫⬛⬜
 </pre>
+
 # ASCII ART ❤️
 <table>
   <tr>

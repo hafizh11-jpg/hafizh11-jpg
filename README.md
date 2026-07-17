@@ -1,10 +1,11 @@
 <table>
   <tr>
-    <td width="260" style="min-width: 260px; max-width: 260px;" valign="top">
-      <img src="selena-ascii.png" width="260" height="260" style="border-radius: 4px; min-width: 260px; display: block;">
+    <td valign="top">
+      <img src="selena-ascii.png" width="260" height="260" style="border-radius: 4px;">
+      <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td valign="top">
-      <div style="overflow-x: auto; max-width: 100%;">
 <pre>
 👤 → hafizh11-jpg
 OS           → Bazzite OS
@@ -21,7 +22,6 @@ GPU          → NVIDIA GeForce RTX 2050 [Discrete]
 Memory       → 15.30 GiB Ram
 🟥🟧🟨🟩🟦🟪🟫⬛⬜
 </pre>
-      </div>
     </td>
   </tr>
 </table>

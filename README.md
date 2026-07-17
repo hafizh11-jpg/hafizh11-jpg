@@ -26,7 +26,7 @@ Memory       → 15.30 GiB Ram
   </tr>
 </table>
 
-# ASCII ART ❤️
+# ASCII ART ANIMATION 🩷
 <table>
   <tr>
     <td><img src="ascii_bw_hd.gif" alt="selena-ascii-1" width="300"></td>

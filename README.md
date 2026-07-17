@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <td valign="top">
-      <img src="selena-ascii.png" width="260" height="260" style="border-radius: 4px;">
+    <td width="260" valign="top">
+      <img src="selena-ascii.png" width="260" height="260" style="border-radius: 4px; display: block;">
     </td>
     <td valign="top">
 <pre>

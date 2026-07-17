@@ -21,8 +21,6 @@ Memory         → 16GB Ram
 
 <br clear="left"/>
 
-
-
 <p align="center">
   <a href="https://github.com/hafizh11-jpg">
     <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hafizh11-jpg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

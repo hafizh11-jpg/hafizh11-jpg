@@ -1,29 +1,36 @@
 # 💻 Profile Fastfetch Layout
 
 <div align="center">
-  <img src="selena-ascii.png" width="260" align="left" style="margin-right: 25px; margin-bottom: 15px; border-radius: 4px;">
-
-  <pre align="left">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <!-- Kolom Kiri: Dikunci width-nya di tingkat HTML agar TIDAK BISA menyusut atau hilang di HP -->
+      <td valign="top" width="260" align="left">
+        <img src="profile-ascii.png" width="260" height="260" alt="ASCII Art Profile" style="display: block;">
+      </td>
+      <!-- Kolom Kanan: Dipaksa rata kiri mutlak untuk menjamin kerapian di laptop -->
+      <td valign="top" align="left" style="padding-left: 30px;">
+        <pre style="text-align: left; background: transparent; border: none; margin: 0; padding: 0;">
 <span style="color:#50fa7b">👤 →</span> <span style="color:#ff79c6"><b>hafizh11-jpg</b></span>@<span style="color:#8be9fd"><b>github</b></span>
 ------------------------------------------------------------
-<span style="color:#8be9fd">💻 OS</span>       → Bazzite
-<span style="color:#50fa7b">🏠 Host</span>     → Data Engineer
-<span style="color:#f1fa8c">🧠 Kernel</span>   → Transforming Raw Data into Reliable & Scalable Insights 🚀
-<span style="color:#bd93f9">⏰ Uptime</span>   → 22 years (and counting)
-<span style="color:#ff79c6">📦 Packages</span> → 18+ Repositories (git)
-<span style="color:#8be9fd">🐚 Shell</span>    → Bash
-<span style="color:#ff5555">🖥️ Res</span>      → 1920x1080 @ 144Hz
-<span style="color:#50fa7b">🎨 DE/WM</span>    → Zed Editor / JetBrains / Tmux
-<span style="color:#f1fa8c">📟 Terminal</span> → Konsole / GNOME Terminal
-<span style="color:#bd93f9">⚙️ CPU</span>      → 12th Gen Intel(R) Core(TM)
-<span style="color:#ff79c6">🎮 GPU</span>      → NVIDIA GeForce RTX
-<span style="color:#8be9fd">💾 Memory</span>   → 16GB Ram
+<span style="color:#8be9fd">OS          </span> → Bazzite
+<span style="color:#50fa7b">Host        </span> → Data Engineer
+<span style="color:#f1fa8c">Kernel      </span> → Transforming Raw Data into Reliable & Scalable Insights 🚀
+<span style="color:#bd93f9">Uptime      </span> → 22 years (and counting)
+<span style="color:#ff79c6">Packages    </span> → 18+ Repositories (git)
+<span style="color:#8be9fd">Shell       </span> → Bash
+<span style="color:#ff5555">Res         </span> → 1920x1080 @ 144Hz
+<span style="color:#50fa7b">DE/WM       </span> → Zed Editor / JetBrains / Tmux
+<span style="color:#f1fa8c">Terminal    </span> → Konsole / GNOME Terminal
+<span style="color:#bd93f9">CPU         </span> → 12th Gen Intel(R) Core(TM)
+<span style="color:#ff79c6">GPU         </span> → NVIDIA GeForce RTX
+<span style="color:#8be9fd">Memory      </span> → 16GB Ram
 
 <span style="color:#2b2b2b">███</span><span style="color:#ff5555">███</span><span style="color:#50fa7b">███</span><span style="color:#f1fa8c">███</span><span style="color:#bd93f9">███</span><span style="color:#ff79c6">███</span><span style="color:#8be9fd">███</span><span style="color:#f8f8f2">███</span>
-  </pre>
+        </pre>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<br clear="left"/>
 
 ---
 

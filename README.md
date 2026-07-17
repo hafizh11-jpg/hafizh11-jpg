@@ -1,11 +1,9 @@
-# 💻 Profile Fastfetch Layout
-
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <!-- Kolom Kiri: Dikunci width-nya di tingkat HTML agar TIDAK BISA menyusut atau hilang di HP -->
       <td valign="top" width="260" align="left">
-        <img src="profile-ascii.png" width="260" height="260" alt="ASCII Art Profile" style="display: block;">
+        <img src="selena-ascii.png" width="260" height="260" alt="ASCII Art Profile" style="display: block;">
       </td>
       <!-- Kolom Kanan: Dipaksa rata kiri mutlak untuk menjamin kerapian di laptop -->
       <td valign="top" align="left" style="padding-left: 30px;">

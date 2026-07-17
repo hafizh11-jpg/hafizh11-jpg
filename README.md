@@ -15,8 +15,8 @@ GPU            → NVIDIA GeForce RTX 2050 [Discrete]
 Memory         → 15.30 GiB Ram
 🟥🟧🟨🟩🟦🟪🟫⬛⬜
 </pre>
-# ASCII ART ❤️
 
+# ASCII ART ❤️
 <table>
   <tr>
     <td><img src="ascii_bw_hd.gif" alt="selena-ascii-1" width="300"></td>

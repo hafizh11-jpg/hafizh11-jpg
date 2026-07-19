@@ -1,23 +1,4 @@
-<div align="center">
-
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/content?type=waving&color=00ffcc&height=150&section=header&text=SYSTEM%20ACCESS&fontSize=35&fontColor=000000" width="100%"/>
-
-<br/>
-
-<!-- INI PP DENGAN EFEK SCAN -->
-<!-- Pastikan link mengarah ke file SVG di repositori kamu -->
-<img src="https://raw.githubusercontent.com/hafizh11-jpg/hafizh11-jpg/main/selena-ascii.png" width="200" alt="Scanning Avatar" />
-
-<br/>
-<br/>
-
-<!-- EFEK TEKS MENGETIK -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=BIOMETRIC+SCANNING...;IDENTITY+CONFIRMED.;WELCOME,+USER." alt="Typing SVG" />
-
-</div>
-
-<!--<table>
+<table>
   <tr>
     <td valign="top">
       <img src="selena-ascii.png" width="260" height="260" style="border-radius: 4px;">
@@ -55,4 +36,4 @@ Memory       → 15.30 GiB Ram
     <td><img src="ascii_subtle_hd.gif" alt="selena-ascii-3" width="300"></td>
     <td><img src="pgr-selena-punishing-gray-raven-selena.gif" alt="selena" width="300"></td>
   </tr>
-</table>-->
+</table>

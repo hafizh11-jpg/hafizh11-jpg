@@ -1,4 +1,4 @@
-<table>
+<!--<table>
   <tr>
     <td valign="top">
       <img src="selena-ascii.png" width="260" height="260" style="border-radius: 4px;">
@@ -36,4 +36,4 @@ Memory       → 15.30 GiB Ram
     <td><img src="ascii_subtle_hd.gif" alt="selena-ascii-3" width="300"></td>
     <td><img src="pgr-selena-punishing-gray-raven-selena.gif" alt="selena" width="300"></td>
   </tr>
-</table>
+</table>-->

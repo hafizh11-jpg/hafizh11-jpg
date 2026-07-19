@@ -1,29 +1,21 @@
 <div align="center">
 
-<!-- HEADER BANNER DENGAN EFEK SCANNING -->
-<img src="https://capsule-render.vercel.app/content?type=waving&color=00ffcc&height=180&section=header&text=SYSTEM%20SCANNING...&fontSize=40&animation=twinkling&fontColor=000000" width="100%"/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/content?type=waving&color=00ffcc&height=150&section=header&text=SYSTEM%20ACCESS&fontSize=35&fontColor=000000" width="100%"/>
 
 <br/>
 
-<!-- SECTION PROFIL DENGAN EFEK INTEGRASI PP -->
-<table>
-  <tr>
-    <td align="center" width="200">
-      <!-- Mengambil otomatis PP GitHub kamu -->
-      <img src="https://github.com/hafizh11-jpg.png" width="150" style="border-radius: 50%; border: 3px solid #00ffcc; box-shadow: 0 0 20px #00ffcc;"/>
-      <br/>
-      <sub><b>[ SUBJECT ID: USERNAME_KAMU ]</b></sub>
-    </td>
-    <td width="400">
-      <!-- Efek Teks Mengetik / Scanning -->
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFCC&width=435&lines=INITIALIZING+SCAN...;ACCESS+GRANTED...;WELCOME+TO+MY+DATABASE." alt="Typing SVG" />
-      
-      <p>⚡ <b>Status:</b> Online & Mengubah kopi menjadi kode.</p>
-      <p>🔍 <b>Fokus Utama:</b> Web Development / UI/UX / Cyber Security (Pilih salah satu)</p>
-      <p>📍 <b>Lokasi:</b> Earth.sys</p>
-    </td>
-  </tr>
-</table>
+<!-- INI PP DENGAN EFEK SCAN -->
+<!-- Pastikan link mengarah ke file SVG di repositori kamu -->
+<img src="https://raw.githubusercontent.com/hafizh11-jpg/hafizh11-jpg/main/selena-ascii.png" width="200" alt="Scanning Avatar" />
+
+<br/>
+<br/>
+
+<!-- EFEK TEKS MENGETIK -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=BIOMETRIC+SCANNING...;IDENTITY+CONFIRMED.;WELCOME,+USER." alt="Typing SVG" />
+
+</div>
 
 <!--<table>
   <tr>

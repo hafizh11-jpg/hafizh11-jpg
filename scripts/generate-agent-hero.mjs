@@ -24,7 +24,7 @@ function buildProfileLines(projects) {
   };
 
   return [
-    { type: "header", value: "wildan@build" },
+    { type: "header", value: "hafizh11-jpg@build" },
     { type: "row", key: "Name", value: "Wildan Syukri Niam" },
     { type: "row", key: "Role", value: "Full-Stack Builder" },
     { type: "row", key: "Based", value: "Bandung, Indonesia" },

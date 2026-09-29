@@ -15,7 +15,7 @@ Uptime       → 22+ years
 Packages     → 19+ Repositories
 Shell        → Bash
 Res          → 1920x1080 @ 144Hz
-DE/WM        → Zed Editor / JetBrains IDE
+DE/WM        → JetBrains IDE
 Terminal     → Konsole / GNOME Terminal
 CPU          → 12th Gen Intel(R) Core(TM) i7-12650H (16) @ 4.70 GHz
 GPU          → NVIDIA GeForce RTX 2050 [Discrete]

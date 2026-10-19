@@ -9,7 +9,7 @@
 <pre>
 👤 → hafizh11-jpg
 OS           → Bazzite OS
-Host         → Data Engineer, Database Administrator, Backend Developer
+Host         → Backend Developer
 Kernel       → Transforming Raw Data into Reliable & Scalable Insights 
 Uptime       → 22+ years
 Packages     → 19+ Repositories

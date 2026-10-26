@@ -1,1 +1,1 @@
-![Demo Aplikasi](images/demo.gif)
+![perkenalan](halo.gif)
